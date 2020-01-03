@@ -49,11 +49,19 @@ Please submit your Profile and the paper abstract via email to <strong>[OWASP CF
 <hr>
 
 ### Chapter Sponsors
+Some of the organisations supporting OWASP Noida's chapter are below:
 
-Intersquad Cyber Intelligence Pvt. Ltd.
+Intersquad Cyber Intelligence
 
-Lets Connect Coworking Space
+Lets Connect Coworking
+
+For more information on how to sponsor and support OWASP Noida's chapter in organising free and open security meets at your company/institution, contact our Chapter Leader.
 
 
-### Upcoming Event
+### Social Media Links
+=Stay Updated=
+[https://www.linkedin.com/company/owaspnoida Linkedin]
+[https://www.facebook.com/owaspnoida Facebook]
+[https://www.instagram.com/owaspnoida Instagram]
+
 
