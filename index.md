@@ -1,54 +1,60 @@
 ---
-
 layout: col-sidebar
-title: OWASP Noida
-tags: example-tag
-level: 0
-
-region: Middle East
-
-auto-migrated: 1
-
+title: OWASP NOIDA
+tags: noida chapter india
+level: 4
+region: Asia
 ---
 
+OWASP Kerala Chapter was founded in July 2019 by an Indian Cyber Security Researcher Mr. Vaibhav Jha who predominantly conducts events like Seminars on Wireless Security, Network Security, Social Engineering, Cyber Laws, Mobile Vulnerabilities etc. to create awareness related to software security in the society. The chapter presents opportunities to the software community in contributing to secure application development.
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+The OWASP Noida Chapter meetings are FREE and OPEN to anyone interested in learning more about information & cyber security. We conduct regular meetings in Noida & Greater Noida Region.
 
-{front matter for this file}
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+## Speakers
+<hr>
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Would you like to speak on the upcoming OWASP Noida's Meeting?
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+### Call for Papers (CFP) is NOW OPEN
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+Web Applications Security Leaders, Software Engineers, Security Enthusiasts and Researchers from all over the world are invited to be a part of the conference for the visibility and evolution in the safety and security of the world’s software.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+### Important Dates:
 
-```
-{info.md}
+OWASP Noida's Kickstart Meetup - October 17th, 2019 11:10 AM
+Venue - Lets Connect Coworking, Noida
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+Address: D-41, Noida Rd, D Block, Sector 59, Noida, Uttar Pradesh 201301
 
-{leaders.md}
+Live Broadcast's Link
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+Facebook - https://www.facebook.com/vaibhavkrjha
 
--->
+Agenda:
+
+11:00 am - 11:10 am: Introductions and Chapter Updates
+
+11:10 am - 12:00 pm: IOT Security: risk and challenges by Mr. Ankit Shankar Giri
+
+12:00 pm - 12:15 pm: Coffee/Tea Break
+
+12:15 pm - 01:15 pm: Android App Pentesting by Mr. Mayank Raheja
+
+01:15 pm - 01:30 pm Ending Note & Future Plans of the Chapter
+
+
+
+Please submit your Profile and the paper abstract via email to <strong>[OWASP CFP](mailto:vaibhav.jha@owasp.org).</strong>
+<hr>
+
+### Chapter Sponsors
+
+Intersquad Cyber Intelligence Pvt. Ltd.
+
+Lets Connect Coworking Space
+
+
+### Upcoming Event
+
