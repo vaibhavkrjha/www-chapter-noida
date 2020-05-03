@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+
+<img src="assets/images/OWASP.png"/>
 
 ### Social Links
 * [Meetup](#)
-* [Social Link](#)-->
+* [Social Link](https://www.instagram.com/owaspnoida)-->
